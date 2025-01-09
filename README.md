@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22083
-Fork on GitHub
-7060
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Shaikh Siddiq</h1>
 <h3 align="center">Currently Working in Freecharge as SDE1(Frontend Developer).</h3>
 
