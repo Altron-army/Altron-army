@@ -5,6 +5,8 @@
 - 💬 Ask me about **react javascript typescript**
 
 - 📫 How to reach me **sid370578@gmail.com**
+- College **NIT JALANDHAR
+- **MTECH CSE
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lpmX9OjlAqBUUJDArbEuLerEGrBWcZZc/view?usp=sharing](https://drive.google.com/file/d/1lpmX9OjlAqBUUJDArbEuLerEGrBWcZZc/view?usp=sharing)
 
