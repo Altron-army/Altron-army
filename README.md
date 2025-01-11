@@ -1,14 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Shaikh Siddiq</h1>
-<h3 align="center">Currently Working in Freecharge as SDE1(Frontend Developer).</h3>
+<h3 align="center">Currently Working in Freecharge as SDE1(Frontend Developer) || NIT JALANDHAR (MTech CSE) .</h3>
 
-- 💬 Ask me about **react javascript typescript**
+- Summary: Dynamic and results-driven Software Development Engineer with hands-on experience at Freecharge Payment Technologies Pvt. Ltd. (July 2023 – Present) and Samsung SDS (March 2023-  June 2023). Passionate about optimizing user experiences, improving performance, and streamlining development processes. At Freecharge, I led the migration of key modules, improved UI/UX performance, and automated deployment processes, boosting efficiency and reducing errors. I also successfully enhanced application load times and user engagement, demonstrating my ability to work cross-functionally with talented teams in the SDLC.
 
-- 📫 How to reach me **sid370578@gmail.com**
-- College **NIT JALANDHAR
-- **MTECH CSE
+- SKILLS: HTML, HTML5, CSS, CSS3, JavaScript (JS), ECMAScript (ES6++), TypeScript (TS), React js,
+jQuery, Redux, Bootstrap, Tailwind CSS, Material UI, Styled Components, SASS (SCSS), Redux, Context API,
+Webpack, Parcel, npm, yarn, Git, GitHub, GitLab, Bitbucket, Responsive Design, 
+Cross-Browser Compatibility, UI/UX (User Interface/User Experience), Accessibility, Web Performance Optimization, SEO (Search Engine Optimization), RESTful APIs, JSON, AJAX, DOM Manipulation,
+Asynchronous Programming, Data Structures Algorithms,Agile Methodologies, Scrum.
+-  How to reach me **sid370578@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lpmX9OjlAqBUUJDArbEuLerEGrBWcZZc/view?usp=sharing](https://drive.google.com/file/d/1lpmX9OjlAqBUUJDArbEuLerEGrBWcZZc/view?usp=sharing)
+
+- Know about my experiences [https://drive.google.com/file/d/1lpmX9OjlAqBUUJDArbEuLerEGrBWcZZc/view?usp=sharing](https://drive.google.com/file/d/1lpmX9OjlAqBUUJDArbEuLerEGrBWcZZc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
